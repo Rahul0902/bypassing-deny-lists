@@ -5,7 +5,7 @@
 <img width="1146" alt="Screen Shot 2023-12-29 at 18 14 21" src="https://github.com/Rahul0902/bypassing-deny-lists/assets/44233038/56e862a7-9cdd-4c92-a802-576fabc19802">
 
 <h2>First Ingredient</h2>
-<h3>Scanning</h3>
+<h3>Reconnaissance</h3>
 My exploration began by scanning the machine, revealing open <b>ports 22 (SSH) and 80 (HTTP)</b>. The website hosted on port 80 was my initial focus for enumeration.<br><br>
 <img width="1153" alt="Screen Shot 2023-12-29 at 18 21 07" src="https://github.com/Rahul0902/bypassing-deny-lists/assets/44233038/cdbdb246-f6e7-42a5-9bd4-ea318fb70241">
 
